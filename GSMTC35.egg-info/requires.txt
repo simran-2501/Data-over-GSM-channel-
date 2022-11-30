@@ -1,0 +1,7 @@
+pyserial
+
+[restapi]
+flask
+flask_restful
+flask-httpauth
+pyopenssl

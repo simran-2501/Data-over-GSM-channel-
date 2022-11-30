@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+GSMTC35/GSMTC35.py
+GSMTC35/__init__.py
+GSMTC35.egg-info/PKG-INFO
+GSMTC35.egg-info/SOURCES.txt
+GSMTC35.egg-info/dependency_links.txt
+GSMTC35.egg-info/requires.txt
+GSMTC35.egg-info/top_level.txt
